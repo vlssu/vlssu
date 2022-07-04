@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, 这里是VLssu 👋
+
+#### 一个终极咸鱼，啥也不会的CV工程师
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vlssu&show_icons=true&theme=ocean_dark)  
 
 <!--
 **vlssu/vlssu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
